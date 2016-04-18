@@ -1,0 +1,4 @@
+[template]
+src="config.tmpl"
+dest="/root/.aws/config"
+keys=[ "AWS_REGION" ]

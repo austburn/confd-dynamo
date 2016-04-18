@@ -1,0 +1,4 @@
+[template]
+src="cert.tmpl"
+dest="/root/cert"
+keys=[ "/cert" ]
